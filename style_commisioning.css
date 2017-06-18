@@ -1,4 +1,40 @@
 /*
+########  #######  ##    ## ########  ######  
+##       ##     ## ###   ##    ##    ##    ## 
+##       ##     ## ####  ##    ##    ##       
+######   ##     ## ## ## ##    ##     ######  
+##       ##     ## ##  ####    ##          ## 
+##       ##     ## ##   ###    ##    ##    ## 
+##        #######  ##    ##    ##     ######   */
+
+@font-face {
+    font-family: 'Roboto Regular';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Roboto Regular'), local('Roboto-Regular'),
+        url(fonts/roboto-regular.woff) format('woff'),
+        url(fonts/roboto-regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Raleway ExtraBold';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Raleway ExtraBold'), local('Raleway-ExtraBold'),
+        url(fonts/raleway-extrabold.woff) format('woff'),
+        url(raleway-extrabold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Raleway Regular';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Raleway Regular'), local('Raleway-Regular'),
+        url(fonts/raleway-regular.woff) format('woff'),
+        url(fonts/raleway-regular.ttf) format('truetype');
+}
+
+/*
 ##     ##    ###    #### ##    ## 
 ###   ###   ## ##    ##  ###   ## 
 #### ####  ##   ##   ##  ####  ## 
